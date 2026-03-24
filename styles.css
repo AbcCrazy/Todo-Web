@@ -3,7 +3,8 @@ button {
     border-color: red;
 }
 
-input {
-    width: 500px;
-    height: 500px;
+.flex-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
 }
