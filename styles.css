@@ -1,5 +1,6 @@
 button {
     border-radius: 15px;
     border-color: red;
-    size: 50px;
+    width: 200px;
+    height: 200px;
 }
